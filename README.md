@@ -11,5 +11,3 @@ As you are already familiar with Java , it is very easier to configure with Java
 <li><a href="https://github.com/bhattaraisubash/SpringConfig/blob/master/src/main/java/bsubash/springconfig/controller/HelloController.java">HelloController.java</a></li>
 <li><a href="https://github.com/bhattaraisubash/SpringConfig/blob/master/src/main/webapp/WEB-INF/JSP/index.jsp">index.jsp</a></li>
 </ul>
-
-#### I have an tutorial article about this project . If you wish , you can visit here &raquo; <a href="http://hacktangle.com/spring-java-configuration/">Spring Java Configuration</a>
